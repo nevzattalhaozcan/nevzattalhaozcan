@@ -5,5 +5,4 @@
 - 💬 Ask me about Java, Selenium, JDBC, RestAssured, and everything about software testing with automation or manual 
 - 📫 How to reach me: https://www.linkedin.com/in/nevzattalhaozcan/
 - 😄 Pronouns: he/him
-
-<a href="https://www.linkedin.com/in/nevzattalhaozcan/" target="blank"><img align="center" src="https://abbtech.az/storage/uploads/files/1629359967_sftwrengr.png" height="100" /></a>
+[![Nevzat Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=nevzattalhaozcan)](https://github.com/anuraghazra/github-readme-stats)
