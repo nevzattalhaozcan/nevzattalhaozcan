@@ -1,4 +1,5 @@
-![banner](https://user-images.githubusercontent.com/112750329/229379953-2de11b25-2f3d-469c-9ee8-e0440c53bf28.png)
+![banner (1)](https://user-images.githubusercontent.com/112750329/229380086-7e04f14d-9d6b-4373-86da-bff90be891dd.png)
+
 - 🔭 I’m currently working on GUI and API Testing.
 - 🌱 I’m currently learning Appium and JMeter.
 - 👯 I’m looking to collaborate on web-based application development.
