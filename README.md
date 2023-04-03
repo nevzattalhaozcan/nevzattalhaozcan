@@ -1,4 +1,4 @@
-![banner (1)](https://user-images.githubusercontent.com/112750329/229380086-7e04f14d-9d6b-4373-86da-bff90be891dd.png)
+Hi there! 
 
 - 🔭 I’m currently working on GUI and API Testing.
 - 🌱 I’m currently learning Appium and JMeter.
