@@ -1,8 +1,8 @@
 Hi there! 
 
-- 🔭 I’m currently working on GUI and API Testing.
-- 🌱 I’m currently learning Appium and JMeter.
-- 👯 I’m looking to collaborate on web-based application development.
+- 🔭 I’m currently working on GUI, DB, and API Testing.
+- 🌱 I’m currently learning Appium for mobile testing.
+- 👯 I’m looking to collaborate on web-based or mobile application development.
 - 💬 Ask me about Java, Selenium, Cucumber, Junit, TestNG, SQL, JDBC, RestAssured, and everything about software testing with automation or manual. 
 - 📫 How to reach me: https://www.linkedin.com/in/nevzattalhaozcan/
 - 😄 Pronouns: he/him
