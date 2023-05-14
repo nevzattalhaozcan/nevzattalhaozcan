@@ -4,8 +4,6 @@ Hi there!
 - 🌱 I’m currently learning Appium for mobile testing.
 - 👯 I’m looking to collaborate on web-based or mobile application development.
 - 💬 Ask me about Java, Selenium, Cucumber, Junit, TestNG, SQL, JDBC, RestAssured, and everything about software testing with automation or manual. 
-- 📫 How to reach me: https://www.linkedin.com/in/nevzattalhaozcan/
-- 😄 Pronouns: he/him
 
 [![Nevzat Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=nevzattalhaozcan&count_private=true)](https://github.com/nevzattalhaozcan/github-readme-stats)
 
