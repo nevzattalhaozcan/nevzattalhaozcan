@@ -36,8 +36,8 @@ These projects allowed me to demonstrate my proficiency in software testing, fro
 - Earned the ISTQB&reg; Foundation Level Certificate, demonstrating a strong foundation in software testing principles and practices.
 
 ### Contact Me
-**LinkedIn:** [linkedin.com/in/nevzattalhao](https://www.linkedin.com/in/nevzattalhao/)\
-**Email:** nevzattalhao@gmail.com
+**LinkedIn:** [linkedin.com/in/nevzattalhaozcn](https://www.linkedin.com/in/nevzattalhaozcn/)\
+**Email:** nevzattalhaozcn@gmail.com
 
 ### Connect with Me
 Feel free to connect with me on LinkedIn or send me an email if you have any questions or want to collaborate on a project. I'm always open to networking and learning from fellow professionals.
